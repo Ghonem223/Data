@@ -1,0 +1,20 @@
+{
+  "name": "الميداني Pro - جامع البيانات الميدانية",
+  "short_name": "الميداني Pro",
+  "description": "تطبيق لجمع وتنظيم بيانات الزيارات الميدانية، الكول سنتر، والمتابعة",
+  "id": "/index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#14201C",
+  "theme_color": "#14201C",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
